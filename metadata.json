@@ -1,0 +1,6 @@
+{
+  "name": "NEON RUNNER: CYBER ESCAPE",
+  "description": "High-octane 3D cyberpunk endless parkour runner featuring neon skyscrapers, responsive lane-switching, jumping, sliding, procedural obstacles, holographic billboards, and synth soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
